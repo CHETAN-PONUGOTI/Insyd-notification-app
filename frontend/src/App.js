@@ -4,7 +4,7 @@ import NotificationList from './components/NotificationList';
 import './App.css';
 
 const MOCK_USERS = Array.from({ length: 100 }, (_, i) => `user_${i + 1}`);
-const API_URL = 'http://localhost:5000/api';
+const API_URL = 'https://insyd-notification-app-1.onrender.com/api';
 
 const POST_TITLES = [
   "New Urban Design Project: The Green City Initiative",
