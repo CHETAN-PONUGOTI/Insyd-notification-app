@@ -1,3 +1,5 @@
+📝 Insyd Notification System: System Design and POC Documentation
+
 1. Introduction
   This document outlines the design and implementation of a proof-of-concept (POC) notification system for Insyd, a social web platform for the Architecture Industry. The goal is to design a scalable and efficient system that keeps users engaged by providing timely updates on activities from followed users, followers, or organic content discovery.
 
